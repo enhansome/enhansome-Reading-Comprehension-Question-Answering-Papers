@@ -1,0 +1,267 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Survey papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluation papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Models (for single-hop)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge-based Machine Reading Comprehension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-domain Question Answering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unanswerable Questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Passage Machine Reading Comprehension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conversational Question Answering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datasets with Explanations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QA over KG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Question answering systems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge bases/Knowledge sources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papers misc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "Content"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Basic Papers/Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/seriousmac/awesome-qa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-13T02:23:01Z",
+            "owner": "seriousran",
+            "repo": "awesome-qa",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/penzant/nlu_datasets_2018",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-09T18:39:25Z",
+            "owner": "penzant",
+            "repo": "nlu_datasets_2018",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Thanks to these repositories:"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:36:52.332Z",
+    "original_repository": "xanhho/Reading-Comprehension-Question-Answering-Papers",
+    "original_repository_sha": "42e97780fca2af246e75c4cadf833f39382f1b0a",
+    "enhanced_repository": "enhansome/enhansome-Reading-Comprehension-Question-Answering-Papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Reading Comprehension Question Answering Papers with stars"
+  }
+}
