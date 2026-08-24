@@ -236,6 +236,405 @@
       "items": [
         {
           "node_type": "item",
+          "title": "2019",
+          "description": "XLNet: Generalized Autoregressive Pretraining for Language Understanding XLNet Race, SQuAD 1.1, SQuAD 2.0 pretrained LM paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192689297,
+            "language": "Python",
+            "last_commit": "2023-05-28T15:42:23Z",
+            "owner": "zihangdai",
+            "repo": "xlnet",
+            "stars": 6188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding BERT GLUE, SQuAD 1.1, SQuAD 2.0, SWAG pretrained LM paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 154747577,
+            "language": "Python",
+            "last_commit": "2024-07-23T23:39:41Z",
+            "owner": "google-research",
+            "repo": "bert",
+            "stars": 40046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "QANET: Combining local Convolution with global Self-Attention for Reading Comprehension QANet SQuAD 1.1 paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T19:58:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Reading Wikipedia to Answer Open-Domain Questions DrQA Wikipedia, SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies OPQA, Multi-Passage MRC paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 96581737,
+            "language": "Python",
+            "last_commit": "2023-10-01T21:46:08Z",
+            "owner": "facebookresearch",
+            "repo": "DrQA",
+            "stars": 4468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "R-Net: Machine Reading Comprehension with Self-Matching Networks R-Net SQuAD 1.1, MS-MARCO paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112273500,
+            "language": "Python",
+            "last_commit": "2018-08-08T18:04:09Z",
+            "owner": "HKUST-KnowComp",
+            "repo": "R-Net",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Machine Comprehension Using Match-LSTM and Answer Pointer Match-LSTM + Pointer Network SQuAD 1.1 paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72108753,
+            "language": "Lua",
+            "last_commit": "2017-09-14T03:55:59Z",
+            "owner": "shuohangwang",
+            "repo": "SeqMatchSeq",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Gated-Attention Readers for Text Comprehension Gated-attention Reader CNN and Daily Mail, Children’s Book Test, Who Did What paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72806317,
+            "language": "Python",
+            "last_commit": "2017-11-29T19:52:49Z",
+            "owner": "bdhingra",
+            "repo": "ga-reader",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Dynamic CoAttention Networks for Question Answering Dynamic coattention networks SQuAD 1.1 paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99571681,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-12-01T10:21:15Z",
+            "owner": "thomasfermi",
+            "repo": "Dynamic-Coattention-Network-for-SQuAD",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "DCN+: Mixed Objective and Deep Residual CoAttention for Question Answering DCN+ SQuAD 1.1 paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110337495,
+            "language": "Python",
+            "last_commit": "2018-09-01T08:40:18Z",
+            "owner": "andrejonasson",
+            "repo": "dynamic-coattention-network-plus",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Bi-directional Attention Flow for Machine Comprehension BiDAF SQuAD 1.1 paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61758076,
+            "language": "Python",
+            "last_commit": "2023-05-31T01:34:05Z",
+            "owner": "allenai",
+            "repo": "bi-att-flow",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Attention-over-Attention Neural Networks for Reading Comprehension Attention-over-Attention Reader Children’s Book Test, CNN and Daily Mail paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72436800,
+            "language": "Python",
+            "last_commit": "2016-12-02T16:01:39Z",
+            "owner": "OlavHN",
+            "repo": "attention-over-attention",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "Text Understanding with the Attention Sum Reader Network Attention Sum Reader Children’s Book Test, CNN and Daily Mail paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60544121,
+            "language": "Python",
+            "last_commit": "2016-09-09T08:22:45Z",
+            "owner": "rkadlec",
+            "repo": "asreader",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "Key-Value Memory Networks for Directly Reading Documents Key-Value Memory Networks WikiMovies, WikiQA paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 42554070,
+            "language": "Lua",
+            "last_commit": "2020-07-28T09:20:33Z",
+            "owner": "facebookarchive",
+            "repo": "MemNN",
+            "stars": 1755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "Teaching Machines to Read and Comprehend Attentive Reader CNN and Daily Mail paper, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52832467,
+            "language": "Python",
+            "last_commit": "2016-08-26T05:11:00Z",
+            "owner": "thomasmesnard",
+            "repo": "DeepMind-Teaching-Machines-to-Read-and-Comprehend",
+            "stars": 406
+          }
+        }
+      ],
+      "title": "Basic Papers/Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Knowledge-based-MRC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "KBMRC: Knowledge-based Machine Reading Comprehension"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Open-domain-Question-Answering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "OPQA: Open-domain Question Answering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Unanswerable-Questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "UQ: Unanswerable Questions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Multi-Passage-MRC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "Multi-Passage MRC: Multi-Passage Machine Reading Comprehension"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/CQA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "CQA: Conversational Question Answering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/MRC-Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "NarrativeQA paper Free answering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114897541,
+            "language": "Shell",
+            "last_commit": "2020-04-15T09:16:14Z",
+            "owner": "google-deepmind",
+            "repo": "narrativeqa",
+            "stars": 517
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Datasets-with-Explanations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "Datasets with Explanations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Details: https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/QA-over-KG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147098826,
+            "language": null,
+            "last_commit": "2021-01-26T06:44:37Z",
+            "owner": "xanhho",
+            "repo": "Reading-Comprehension-Question-Answering-Papers",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "QA over KG"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "https://github.com/seriousmac/awesome-qa",
           "description": null,
           "children": [],
@@ -269,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:09:20.493Z",
+    "last_updated": "2026-08-24T14:36:01.718Z",
     "original_repository": "xanhho/Reading-Comprehension-Question-Answering-Papers",
     "original_repository_id": 147098826,
     "original_repository_sha": "42e97780fca2af246e75c4cadf833f39382f1b0a",
