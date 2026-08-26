@@ -261,7 +261,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40045
+            "stars": 40046
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38615
+            "stars": 38622
           }
         },
         {
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:04:00.324Z",
+    "last_updated": "2026-08-26T09:06:53.527Z",
     "original_repository": "xanhho/Reading-Comprehension-Question-Answering-Papers",
     "original_repository_id": 147098826,
     "original_repository_sha": "42e97780fca2af246e75c4cadf833f39382f1b0a",
