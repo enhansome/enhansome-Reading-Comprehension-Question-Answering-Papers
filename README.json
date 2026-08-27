@@ -246,7 +246,7 @@
             "last_commit": "2023-05-28T15:42:23Z",
             "owner": "zihangdai",
             "repo": "xlnet",
-            "stars": 6188
+            "stars": 6189
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38622
+            "stars": 38630
           }
         },
         {
@@ -668,9 +668,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:06:53.527Z",
-    "original_repository": "xanhho/Reading-Comprehension-Question-Answering-Papers",
-    "original_repository_id": 147098826,
+    "last_updated": "2026-08-27T11:59:37.856Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 147098826,
+      "language": null,
+      "last_commit": "2021-01-26T06:44:37Z",
+      "owner": "xanhho",
+      "repo": "Reading-Comprehension-Question-Answering-Papers",
+      "stars": 148
+    },
     "original_repository_sha": "42e97780fca2af246e75c4cadf833f39382f1b0a",
     "enhanced_repository": "enhansome/enhansome-Reading-Comprehension-Question-Answering-Papers",
     "enhanced_repository_description": null,
