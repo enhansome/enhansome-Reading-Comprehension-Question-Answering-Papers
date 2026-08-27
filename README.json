@@ -261,7 +261,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40046
+            "stars": 40045
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:37.856Z",
+    "last_updated": "2026-08-27T19:09:00.585Z",
     "original_repository_info": {
       "archived": false,
       "id": 147098826,
