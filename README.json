@@ -500,7 +500,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40048,
+            "stars": 40046,
             "topics": [
               "google",
               "natural-language-processing",
@@ -527,7 +527,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38664,
+            "stars": 38678,
             "topics": [
               "ai",
               "machine-learning",
@@ -1121,7 +1121,7 @@
             "open_issues": 1,
             "owner": "seriousran",
             "repo": "awesome-qa",
-            "stars": 768,
+            "stars": 769,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:33:27.616Z",
+    "last_updated": "2026-09-02T12:49:52.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
