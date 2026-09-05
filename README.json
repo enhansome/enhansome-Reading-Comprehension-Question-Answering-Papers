@@ -527,7 +527,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38690,
+            "stars": 38693,
             "topics": [
               "ai",
               "machine-learning",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:47:18.176Z",
+    "last_updated": "2026-09-05T11:52:18.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
