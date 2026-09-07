@@ -500,7 +500,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40044,
+            "stars": 40043,
             "topics": [
               "google",
               "natural-language-processing",
@@ -527,7 +527,7 @@
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38694,
+            "stars": 38703,
             "topics": [
               "ai",
               "machine-learning",
@@ -573,7 +573,7 @@
             "open_issues": 6,
             "owner": "HKUST-KnowComp",
             "repo": "R-Net",
-            "stars": 577,
+            "stars": 575,
             "topics": [
               "machine-comprehension",
               "nlp",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:11:43.623Z",
+    "last_updated": "2026-09-07T14:18:55.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
