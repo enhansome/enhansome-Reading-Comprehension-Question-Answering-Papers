@@ -2,21 +2,21 @@
 
 ## Content
 
-* [Survey papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#surveyoverview-papersdocuments-should-read-on-machine-reading-comprehension) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Slides](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#slides) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Evaluation papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#evaluation-papers) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Models (for single-hop)](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#basic-papersmodels) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Knowledge-based Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#kbmrc-knowledge-based-machine-reading-comprehension) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Open-domain Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#opqa-open-domain-question-answering) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Unanswerable Questions](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#uq-unanswerable-questions) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Multi-Passage Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#multi-passage-mrc-multi-passage-machine-reading-comprehension) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Conversational Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#cqa-conversational-question-answering) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Datasets](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Datasets with Explanations](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets-with-explanations) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [QA over KG](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#qa-over-kg) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Question answering systems](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#question-answering-systems) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Knowledge bases/Knowledge sources](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#knowledge-basesknowledge-sources) ⭐ 148 | 🐛 0 | 📅 2021-01-26
-* [Papers misc](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#others-misc-model-transfer-learning-data-augmentation-domain-adaption-cross-lingual-) ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* [Survey papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#surveyoverview-papersdocuments-should-read-on-machine-reading-comprehension) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Slides](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#slides) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Evaluation papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#evaluation-papers) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Models (for single-hop)](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#basic-papersmodels) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Knowledge-based Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#kbmrc-knowledge-based-machine-reading-comprehension) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Open-domain Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#opqa-open-domain-question-answering) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Unanswerable Questions](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#uq-unanswerable-questions) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Multi-Passage Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#multi-passage-mrc-multi-passage-machine-reading-comprehension) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Conversational Question Answering](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#cqa-conversational-question-answering) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Datasets](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Datasets with Explanations](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#datasets-with-explanations) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [QA over KG](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#qa-over-kg) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Question answering systems](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#question-answering-systems) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Knowledge bases/Knowledge sources](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#knowledge-basesknowledge-sources) ⭐ 147 | 🐛 0 | 📅 2021-01-26
+* [Papers misc](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/blob/master/README.md#others-misc-model-transfer-learning-data-augmentation-domain-adaption-cross-lingual-) ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## Survey/Overview papers/documents should read on Machine Reading Comprehension
 
@@ -57,7 +57,7 @@
 | 2019 | XLNet: Generalized Autoregressive Pretraining for Language Understanding                | XLNet                              | Race, SQuAD 1.1, SQuAD 2.0                                  | pretrained LM           | [paper](https://arxiv.org/pdf/1906.08237.pdf), [code](https://github.com/zihangdai/xlnet/) ⭐ 6,189 \| 🐛 191 \| 🌐 Python \| 📅 2023-05-28                                                                                      |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding        | BERT                               | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG                            | pretrained LM           | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) ⚠️ Archived                                                                                                                 |
 | 2018 | S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension    | S-NET                              | MS-MARCO                                                    | multiple passages       | [paper](https://arxiv.org/pdf/1706.04815.pdf), \[code]                                                                                                                                                                          |
-| 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet                              | SQuAD 1.1                                                   |                         | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) ⭐ 38,788 \| 🐛 1,994 \| 🌐 Jupyter Notebook \| 📅 2026-09-16                                     |
+| 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet                              | SQuAD 1.1                                                   |                         | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) ⭐ 38,792 \| 🐛 1,995 \| 🌐 Jupyter Notebook \| 📅 2026-09-16                                     |
 | 2017 | ReasoNet: Learning to Stop Reading in Machine Comprehension                             | ReasoNet                           | CNN and Daily Mail, SQuAD 1.1                               |                         | [paper](https://arxiv.org/pdf/1609.05284.pdf), \[code]                                                                                                                                                                          |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions                                       | DrQA                               | Wikipedia, SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | OPQA, Multi-Passage MRC | [paper](https://www.aclweb.org/anthology/P17-1171), [code](https://github.com/facebookresearch/DrQA) ⚠️ Archived                                                                                                                |
 | 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks                        | R-Net                              | SQuAD 1.1, MS-MARCO                                         |                         | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) ⭐ 575 \| 🐛 6 \| 🌐 Python \| 📅 2018-08-08                                             |
@@ -77,27 +77,27 @@
 
 ## KBMRC: Knowledge-based Machine Reading Comprehension
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Knowledge-based-MRC> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Knowledge-based-MRC> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## OPQA: Open-domain Question Answering
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Open-domain-Question-Answering> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Open-domain-Question-Answering> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## UQ: Unanswerable Questions
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Unanswerable-Questions> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Unanswerable-Questions> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## Multi-Passage MRC: Multi-Passage Machine Reading Comprehension
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Multi-Passage-MRC> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Multi-Passage-MRC> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## CQA: Conversational Question Answering
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/CQA> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/CQA> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## Datasets
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/MRC-Datasets> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/MRC-Datasets> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 * Following Danqi Chen, we have four answer types:
   * Cloze test
@@ -154,11 +154,11 @@
 
 ## Datasets with Explanations
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Datasets-with-Explanations> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/Datasets-with-Explanations> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## QA over KG
 
-* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/QA-over-KG> ⭐ 148 | 🐛 0 | 📅 2021-01-26
+* Details: <https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers/wiki/QA-over-KG> ⭐ 147 | 🐛 0 | 📅 2021-01-26
 
 ## Knowledge Bases/Knowledge Sources
 
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
