@@ -500,7 +500,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40043,
+            "stars": 40042,
             "topics": [
               "google",
               "natural-language-processing",
@@ -523,11 +523,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T19:46:42Z",
+            "last_commit": "2026-09-21T21:46:37Z",
             "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38807,
+            "stars": 38812,
             "topics": [
               "ai",
               "machine-learning",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:10:34.547Z",
+    "last_updated": "2026-09-22T13:29:50.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
