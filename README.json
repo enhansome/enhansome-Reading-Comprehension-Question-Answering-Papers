@@ -500,7 +500,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40043,
+            "stars": 40045,
             "topics": [
               "google",
               "natural-language-processing",
@@ -527,7 +527,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38825,
+            "stars": 38832,
             "topics": [
               "ai",
               "machine-learning",
@@ -552,7 +552,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "DrQA",
-            "stars": 4470,
+            "stars": 4469,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:46.085Z"
@@ -692,7 +692,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
-            "open_issues": 94,
+            "open_issues": 100,
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1545,
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:37:27.947Z",
+    "last_updated": "2026-09-25T13:56:52.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
