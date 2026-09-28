@@ -475,7 +475,7 @@
             "open_issues": 191,
             "owner": "zihangdai",
             "repo": "xlnet",
-            "stars": 6188,
+            "stars": 6189,
             "topics": [
               "deep-learning",
               "nlp",
@@ -500,7 +500,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40043,
+            "stars": 40044,
             "topics": [
               "google",
               "natural-language-processing",
@@ -527,7 +527,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38833,
+            "stars": 38838,
             "topics": [
               "ai",
               "machine-learning",
@@ -1162,7 +1162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:06:40.667Z",
+    "last_updated": "2026-09-28T16:49:53.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
