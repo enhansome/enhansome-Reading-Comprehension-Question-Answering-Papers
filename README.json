@@ -71,7 +71,7 @@
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38871,
+            "stars": 38872,
             "topics": [
               "ai",
               "machine-learning",
@@ -96,7 +96,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "DrQA",
-            "stars": 4469,
+            "stars": 4467,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:46.085Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:09:20.022Z",
+    "last_updated": "2026-10-05T17:13:56.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",

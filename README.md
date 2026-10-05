@@ -30,7 +30,7 @@
 * Shanshan Liu et al., **Neural Machine Reading Comprehension: Methods and Trends**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01118.pdf).
 * Xin Zhang et al., **Machine Reading Comprehension: a Literature Review**, arXiv, 2019, [paper](https://arxiv.org/pdf/1907.01686.pdf).
 * Boyu Qiu et al., **A Survey on Neural Machine Reading Comprehension**, arXiv, 2019, [paper](https://arxiv.org/pdf/1906.03824.pdf).
-* Danqi Chen: **Neural Reading Comprehension and Beyond**. PhD thesis, Stanford University, 2018, [paper](https://github.com/danqi/thesis) ⭐ 227 | 🐛 2 | 🌐 TeX | 📅 2020-06-12.
+* Danqi Chen: **Neural Reading Comprehension and Beyond**. PhD thesis, Stanford University, 2018, [paper](https://github.com/danqi/thesis) ⭐ 228 | 🐛 2 | 🌐 TeX | 📅 2020-06-12.
 
 ## Slides
 
@@ -57,7 +57,7 @@
 | 2019 | XLNet: Generalized Autoregressive Pretraining for Language Understanding                | XLNet                              | Race, SQuAD 1.1, SQuAD 2.0                                  | pretrained LM           | [paper](https://arxiv.org/pdf/1906.08237.pdf), [code](https://github.com/zihangdai/xlnet/) ⭐ 6,189 \| 🐛 191 \| 🌐 Python \| 📅 2023-05-28                                                                                      |
 | 2019 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding        | BERT                               | GLUE, SQuAD 1.1, SQuAD 2.0, SWAG                            | pretrained LM           | [paper](https://www.aclweb.org/anthology/N19-1423), [code](https://github.com/google-research/bert) ⚠️ Archived                                                                                                                 |
 | 2018 | S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension    | S-NET                              | MS-MARCO                                                    | multiple passages       | [paper](https://arxiv.org/pdf/1706.04815.pdf), \[code]                                                                                                                                                                          |
-| 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet                              | SQuAD 1.1                                                   |                         | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) ⭐ 38,871 \| 🐛 1,997 \| 🌐 Jupyter Notebook \| 📅 2026-09-30                                     |
+| 2018 | QANET: Combining local Convolution with global Self-Attention for Reading Comprehension | QANet                              | SQuAD 1.1                                                   |                         | [paper](https://openreview.net/pdf?id=B14TlG-RW), [code](https://github.com/google-research/google-research/tree/master/qanet) ⭐ 38,872 \| 🐛 1,997 \| 🌐 Jupyter Notebook \| 📅 2026-09-30                                     |
 | 2017 | ReasoNet: Learning to Stop Reading in Machine Comprehension                             | ReasoNet                           | CNN and Daily Mail, SQuAD 1.1                               |                         | [paper](https://arxiv.org/pdf/1609.05284.pdf), \[code]                                                                                                                                                                          |
 | 2017 | Reading Wikipedia to Answer Open-Domain Questions                                       | DrQA                               | Wikipedia, SQuAD 1.1, CuratedTREC, WebQuestions, WikiMovies | OPQA, Multi-Passage MRC | [paper](https://www.aclweb.org/anthology/P17-1171), [code](https://github.com/facebookresearch/DrQA) ⚠️ Archived                                                                                                                |
 | 2017 | R-Net: Machine Reading Comprehension with Self-Matching Networks                        | R-Net                              | SQuAD 1.1, MS-MARCO                                         |                         | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf), [code](https://github.com/HKUST-KnowComp/R-Net) ⭐ 575 \| 🐛 6 \| 🌐 Python \| 📅 2018-08-08                                             |
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
