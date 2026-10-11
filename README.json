@@ -67,11 +67,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T17:22:43Z",
-            "open_issues": 1998,
+            "last_commit": "2026-10-10T14:34:09Z",
+            "open_issues": 2004,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38887,
+            "stars": 38894,
             "topics": [
               "ai",
               "machine-learning",
@@ -383,7 +383,7 @@
             "open_issues": 1,
             "owner": "seriousran",
             "repo": "awesome-qa",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "awesome",
               "awesome-list",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:31:45.362Z",
+    "last_updated": "2026-10-11T14:58:00.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
