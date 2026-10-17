@@ -44,7 +44,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40040,
+            "stars": 40039,
             "topics": [
               "google",
               "natural-language-processing",
@@ -71,7 +71,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38923,
+            "stars": 38928,
             "topics": [
               "ai",
               "machine-learning",
@@ -236,7 +236,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
-            "open_issues": 101,
+            "open_issues": 104,
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1545,
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:20:59.388Z",
+    "last_updated": "2026-10-17T12:16:02.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
