@@ -44,7 +44,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40037,
+            "stars": 40036,
             "topics": [
               "google",
               "natural-language-processing",
@@ -71,7 +71,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38935,
+            "stars": 38956,
             "topics": [
               "ai",
               "machine-learning",
@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "facebookarchive",
             "repo": "MemNN",
-            "stars": 1752,
+            "stars": 1753,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:46.085Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:40:03.938Z",
+    "last_updated": "2026-10-19T15:43:58.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
