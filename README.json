@@ -19,7 +19,7 @@
             "open_issues": 190,
             "owner": "zihangdai",
             "repo": "xlnet",
-            "stars": 6191,
+            "stars": 6192,
             "topics": [
               "deep-learning",
               "nlp",
@@ -44,7 +44,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40035,
+            "stars": 40036,
             "topics": [
               "google",
               "natural-language-processing",
@@ -68,10 +68,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T13:44:13Z",
-            "open_issues": 2024,
+            "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39047,
+            "stars": 39056,
             "topics": [
               "ai",
               "machine-learning",
@@ -287,7 +287,7 @@
             "open_issues": 8,
             "owner": "rkadlec",
             "repo": "asreader",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:46.085Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:13:25.397Z",
+    "last_updated": "2026-10-29T15:18:14.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
