@@ -44,7 +44,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40036,
+            "stars": 40035,
             "topics": [
               "google",
               "natural-language-processing",
@@ -67,11 +67,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T13:44:13Z",
+            "last_commit": "2026-10-30T11:22:45Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39056,
+            "stars": 39062,
             "topics": [
               "ai",
               "machine-learning",
@@ -239,7 +239,7 @@
             "open_issues": 104,
             "owner": "allenai",
             "repo": "bi-att-flow",
-            "stars": 1545,
+            "stars": 1546,
             "topics": [
               "bidaf",
               "nlp",
@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "facebookarchive",
             "repo": "MemNN",
-            "stars": 1753,
+            "stars": 1754,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:46.085Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:18:14.047Z",
+    "last_updated": "2026-10-30T15:07:14.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
