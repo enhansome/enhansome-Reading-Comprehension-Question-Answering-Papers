@@ -68,10 +68,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T11:58:31Z",
-            "open_issues": 2009,
+            "open_issues": 2012,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39156,
+            "stars": 39161,
             "topics": [
               "ai",
               "machine-learning",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:21:07.878Z",
+    "last_updated": "2026-11-12T16:54:00.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
