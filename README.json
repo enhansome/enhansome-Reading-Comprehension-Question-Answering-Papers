@@ -19,7 +19,7 @@
             "open_issues": 190,
             "owner": "zihangdai",
             "repo": "xlnet",
-            "stars": 6194,
+            "stars": 6195,
             "topics": [
               "deep-learning",
               "nlp",
@@ -67,11 +67,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39180,
+            "stars": 39192,
             "topics": [
               "ai",
               "machine-learning",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:43:30.645Z",
+    "last_updated": "2026-11-16T18:41:14.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
