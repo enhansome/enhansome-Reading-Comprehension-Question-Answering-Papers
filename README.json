@@ -67,11 +67,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T08:37:24Z",
-            "open_issues": 2020,
+            "last_commit": "2026-11-27T16:02:30Z",
+            "open_issues": 2023,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39515,
+            "stars": 39561,
             "topics": [
               "ai",
               "machine-learning",
@@ -96,7 +96,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "DrQA",
-            "stars": 4466,
+            "stars": 4465,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:46.085Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:29:32.367Z",
+    "last_updated": "2026-11-27T18:16:40.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "Survey on Machine Reading Comprehension",
